@@ -1,5 +1,4 @@
 "use strict";
-// utilities.ts
 /**
  * Generic identity function.
  * @param arg - The value of type T.
